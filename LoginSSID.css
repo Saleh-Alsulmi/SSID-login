@@ -1,0 +1,120 @@
+body {
+	
+background: linear-gradient(to top, grey 0%, #faebd7  10%, #deb887 10%, #deb887 90%, grey 90%, #faebd7 100%);
+
+}
+
+span {
+	
+	color: 	#ff0000	;
+	white-space: nowrap;
+	overflow: hidden;
+	text-align: center;
+	font-family: Stencil Std;
+	font-style: italic;
+	font-weight: 900;
+	font-size: 50px;
+	text-overflow: ellipsis;
+	border-width: 5px;
+	text-align: center;
+	margin: -50px 10px 150px 700px;
+	text-shadow: 2px 2px 4px #000;
+	
+}
+
+h2 {
+	
+	color: #483d8b;
+	white-space: nowrap;
+	overflow: hidden;
+	text-align: center;
+	font-family: Arial;
+	font-style: oblique;
+	text-overflow: ellipsis;
+	font-size: 40px;
+	text-shadow: 1px 2px 2px #000;
+}
+
+#blue {
+	
+	color: red;
+	text-align: center;
+	font-style: italic;
+	font-family: Monospace;
+	font-size: 30px;
+	font-weight: 1000;
+	text-shadow: 1px 3px 2px #000;
+	
+}
+
+#insert {
+	color: black;
+	font-size: 16px;
+	padding: 6px 24px;
+	text-align: center;
+}
+
+#insert1 {
+	color: black;
+	font-size: 16px;
+	padding: 6px 24px;
+	text-align: center;
+	margin: 0px 10px 0px 26px;
+}
+
+div {
+	
+  margin: 50px 10px 150px 520px;
+  width: 640px;
+  padding: 100px;
+  border: 5px solid red;
+  background-color: #8fbc8f;
+}
+
+#submit {
+	
+  margin: 10px 10px 10px 260px;
+  display: inline-block;
+  padding: 10px 30px;
+  font-size: 24px;
+  font-style: oblique;
+  font-family: fantasy;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: red;
+  background-color: lightblue;
+  border: none;
+  border-radius: 75px;
+  box-shadow: 0 9px #999;
+	
+}
+
+.button:hover {
+	background-color: #4682b4;
+	}
+
+#a{
+	
+  margin: 20px 10px 0px 270px;
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+    font-size: 20px;
+}
+
+#btn{
+	
+  margin: 20px 10px 0px 220px;
+  background-color: #4169e1;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
